@@ -1,0 +1,30 @@
+body{
+    background: radial-gradient(410px at 49.5% 99%, rgb(250, 208, 196) 0%, rgb(255, 209, 255) 99.5%);
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.berrie-croissant {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color:red;
+}
+
+
+.carousel-inner{
+    display: block;
+    margin:0;
+}
